@@ -16,5 +16,5 @@ void main(List<String> arguments) async {
     },
   );
   print(sum / ratings.length);
-  print(sum);
+  // 4.477333333333332
 }
